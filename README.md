@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Mahad 👋
 
-BSc Computer Science student at City University of Hong Kong (CGPA 3.93/4.3), interested in secure systems, cloud infrastructure, and applied AI. I like building things that sit at the intersection of software engineering and cybersecurity.
+BSc Computer Science student at City University of Hong Kong, interested in secure systems, cloud infrastructure, and applied AI. I like building things that sit at the intersection of software engineering and cybersecurity.
 
 - 🔭 Currently building **Agentic AI for Cyber Security** — a hardened, locally-deployed agentic AI platform (OpenClaw) for automated security workflows and controlled pen-testing, as my Final Year Project
 - 💼 Software Engineering Intern at **Siemens Mobility Hong Kong**, working on containerized video analytics, secure remote access, and CI/CD infrastructure
