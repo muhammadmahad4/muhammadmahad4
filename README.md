@@ -51,11 +51,4 @@ BSc Computer Science student at City University of Hong Kong (CGPA 3.93/4.3), in
 
 ---
 
-### 📊 GitHub Stats
-
-![Mahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadmahad4&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmahad4&layout=compact&hide_border=true)
-
----
-
 📄 [Resume](https://www.linkedin.com/in/muhammad-mahad-16a115246/) &nbsp;|&nbsp; 📧 mmahad2-c@my.cityu.edu.hk &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-mahad-16a115246/)
